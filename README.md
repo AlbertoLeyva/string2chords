@@ -4,4 +4,6 @@ Simple project for creating a simple string to a simple way to read song and cho
 
 ### To do
 
-If the chord is empty, it fails
+IDK, seems good
+
+In a future i'll create it for a file whit actual linebreaks
